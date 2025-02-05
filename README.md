@@ -1,2 +1,2 @@
-# Tareas-Template-
-Template para Tareas de Autómatas y lenguajes formales 
+# Practica 0
+Practica de Repaso de Haskell basico
